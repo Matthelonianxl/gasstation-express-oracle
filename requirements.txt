@@ -1,7 +1,7 @@
 certifi==2017.11.5
 chardet==3.0.4
 cytoolz==0.8.2
-eth-abi==0.5.0
+eth-abi==5.0.1
 eth-keyfile==0.4.0
 eth-keys==0.1.0b3
 eth-tester==0.1.0b5
